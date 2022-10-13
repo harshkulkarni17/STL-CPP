@@ -70,6 +70,11 @@ int main()
     {
         cout << i << " ";
     }
+    // Converting string to integer using stoi() -> requires string library to be included
+    string str = "1234";
+    int n = stoi(1234)
+    
+    
 
     return 0;
 }
